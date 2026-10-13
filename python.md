@@ -301,6 +301,9 @@ Github ko use karn ka leya git ka hona zarori ha.
 Git ka bagar github ko use nahi kar sakt, Github par code ko upload karn or usa menage karna or
 team ka sath mil kar kam karna ka leya Git softwere ka hona lazmi ha.
 
-My name is adil my father name is javed iqbal
 
+Github ak online plateform ha gaha par devalopers or programmers coding yani software ka code ko store karna, share karna or aps ma mil kar team ke tara kam karna.
 
+Git ak control version system CVS softwere ha go code ko menage karta ha or go version change hota ha us ka record ko store karta ha.
+
+Git ka bena github koi kam perform nahi kar sakta.
