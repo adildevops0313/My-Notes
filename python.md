@@ -177,7 +177,7 @@ Ic ka bad ham variable ka bara ma bat karta ha ka ariable kaya ha or ham khu use
 - Python ak case sencitive languge ha hama lower case latter ka use karna chayaa.
 
 Input variable kaya ha? input variable sa murad python ma program user sa information mangta ha or variable us information ko store karta ha. Input variable user sa data lataa ha mesal ka tor par hum write karta ha ka 
-- collection_of_cars = input write kar ka ik question banata ha ta ka vo terminal ma ak question ke tara show hota ha below picture ma show ho raha ha.
+- collection_of_cars = input w rite kar ka ik question banata ha ta ka vo terminal ma ak question ke tara show hota ha below picture ma show ho raha ha.
 
 ![alt text](image-21.png)
 
@@ -301,6 +301,6 @@ Github ko use karn ka leya git ka hona zarori ha.
 Git ka bagar github ko use nahi kar sakt, Github par code ko upload karn or usa menage karna or
 team ka sath mil kar kam karna ka leya Git softwere ka hona lazmi ha.
 
-
+My name is adil my father name is javed iqbal
 
 
