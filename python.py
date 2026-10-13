@@ -1,0 +1,1 @@
+print(ali is a good boy)
