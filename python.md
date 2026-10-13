@@ -300,5 +300,4 @@ Github ko use karn ka leya git ka hona zarori ha.
 
 Git ka bagar github ko use nahi kar sakt, Github par code ko upload karn or usa menage karna or
 team ka sath mil kar kam karna ka leya Git softwere ka hona lazmi ha.
-
-Git ak softwere ha 
+oky
