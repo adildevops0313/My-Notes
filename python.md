@@ -298,4 +298,7 @@ Github ko use karn ka leya git ka hona zarori ha.
 
 **Git kaya ha?** Git ak control version system (CVS) ya softwere ha jisa devalopers apna code ko menage karna ka leya or ic ma version k Change hona vala record ko store karna ka leya use karta ha.
 
-Git ka bagar github ko use nahi kar sakt, Github par code ko upload karn or usa menage karna ka team ka sath mil kar kam karna ka leya Git softwere ka hona lazmi ha.
+Git ka bagar github ko use nahi kar sakt, Github par code ko upload karn or usa menage karna or
+team ka sath mil kar kam karna ka leya Git softwere ka hona lazmi ha.
+
+Git ak softwere ha 
