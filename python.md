@@ -275,7 +275,7 @@ Ac ka use data science,machine learning,or python ma programming ma hota ha.
 
 Jupyter ak tool ha jis ma ham python ka code write karta ha or un code ko run karta ha or us ka result dakhhtaa ha.
 
-Jupyter notebook ko ham ic leya use karta ha ta ka ham python ka code ka practic kar saka,or us ka result foren dakh sakaa,Data science or machine learning sekhana ka leya or graphs vagara vagara ko understand kar saka.
+Jupyter notebook ko ham ic leya use karta ha ta ka ham python ka code ka practic kar saka,or us ka result foren dakh sakaa,Data science or machine learning sekhana ka leya or graphs vagara ko understand kar saka.
 
 >Phir ham kernal ka bara ma parta ha ka kernal kaya ha or khu use karta ha?
 
