@@ -308,3 +308,9 @@ Git ak control version system CVS softwere ha go code ko menage karta ha or go v
 
 Git ka bena github koi kam perform nahi kar sakta.
 
+# Lacture no 7 (Day 3a)
+
+## Ic ma ham indexing (variable) ka bara ma parta ha
+
+
+Phir ham na simply search bar par search karna ha anaconda to anaconda navegator ko open karna ha vaha sa ham na jupyter notebook ko launch karna ha   
