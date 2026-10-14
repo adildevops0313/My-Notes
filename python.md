@@ -312,5 +312,12 @@ Git ka bena github koi kam perform nahi kar sakta.
 
 ## Ic ma ham indexing (variable) ka bara ma parta ha
 
+Indexing ka matlb ha ka chezoo ko ak terteeb ma lana ya un ke list banana ka ha.
 
-Phir ham na simply search bar par search karna ha anaconda to anaconda navegator ko open karna ha vaha sa ham na jupyter notebook ko launch karna ha   
+Index ak asa system or teraqua hota ha jis ke muded sa ham kisi be bara data ,kitab or websites ke malomat ko ic tarteb sa rakha gata ha ta ka usaa foren or assani sa dohnda ga sakaa.
+
+For example hamara computer ma boht sara data or records store hota ha to ham un ma sa kici ka number ya data dohondana ho to hama index he batata ha ka data kic jaga par paraa ha.
+
+Phir ham na simply search bar par search karna ha anaconda to anaconda navegator ko open karna ha vaha sa ham na jupyter notebook ko launch karta ha
+
+Jupyter notebook open karna ka bad ham python ke ak file banayaa ga ham jis folder ma banana chaytahaa ha us par click kara ga yani agar desktop par banana chahatayaa ha to dektop par click kara gaa right side par upper ak + plus ka option show ho raha ho ga us par clic kara ga or file ban gaya ge or us ko name daya ga indexing and data structure 
