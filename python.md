@@ -322,4 +322,18 @@ Phir ham na simply search bar par search karna ha anaconda to anaconda navegator
 
 Jupyter notebook open karna ka bad ham python ke ak file banayaa ga ham jis folder ma banana chaytahaa ha us par click kara ga yani agar desktop par banana chahatayaa ha to dektop par click kara gaa right side par upper ak + plus ka option show ho raha ho ga us par clic kara ga or file ban gaya ge or us ko name daya ga indexing and data structure 
 
-Jupyter notebook par python ka code ko execute karvana bohat easy hota ha yaha par simply 
+Jupyter notebook par python ka code ko execute karvana bohat easy hota ha yaha par simply variable bahaya or us ko value de to bas variable ka name ko write kara koi print vagara nahi write karna para ga or  execute karvana ka leya ctrl + tab ko dabayaga to result show ho gaya ga.
+
+Phir ham jupyter notebook ke ic file ma induxes ka use kar ka check karta ha 
+
+![alt text](image-31.png)
+
+Ham simply variable 'a' ma ak string create karta ha samosa pakora phir a write karna par result show ho gaya ga.
+
+- Agar ham na variable ke length ko check karna ha to ham 'len or brecket ma (a) variable ka name write kara ga to length ka pata chal gya ga.
+- Agar ham variable ka nam write kar ka [] ic type ke brakets ma 0 ya jo be number write kara ga to magar vo number string ke length ma hona chaya to vo val letter show ho gaya ga mesal ka tor par ham na 0 lekhaa ha [] ma to 's' print ho gaya ga. See above the picture.
+- Agar ham na string ka kuch hessa desplay karvana ha to ham variable ka nam or [] bracket ma han na ic tara write karna ha [0:6] ic ka matlib ha ka 0 sa la kar 5 tak print kara do last vala index always show nahi hota.
+- python ma hamasha numbers 0 sa start hota ha.
+- Ic ka elava ham variable ma value store karta ha to hum variable ka nam ka sath. dot ka use karna ka bad tab par click kara ga to bohat sa option open ho gaya ga jin ma sa hm kisi ko be use kar sakta ha yani name ko lower ya upper case banana ka upper ya lower words or replece vagara ko use kar sakta ha.
+- 
+hdsmmmmmmmmmm mmmm    mmmm   jjjnnnn mmmmmmmmmmmm   minnn
