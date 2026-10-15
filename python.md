@@ -335,5 +335,33 @@ Ham simply variable 'a' ma ak string create karta ha samosa pakora phir a write 
 - Agar ham na string ka kuch hessa desplay karvana ha to ham variable ka nam or [] bracket ma han na ic tara write karna ha [0:6] ic ka matlib ha ka 0 sa la kar 5 tak print kara do last vala index always show nahi hota.
 - python ma hamasha numbers 0 sa start hota ha.
 - Ic ka elava ham variable ma value store karta ha to hum variable ka nam ka sath. dot ka use karna ka bad tab par click kara ga to bohat sa option open ho gaya ga jin ma sa hm kisi ko be use kar sakta ha yani name ko lower ya upper case banana ka upper ya lower words or replece vagara ko use kar sakta ha.
-- 
-hdsmmmmmmmmmm mmmm    mmmm   jjjnnnn mmmmmmmmmmmm   minnn
+- Agar ham ak variable ko bari value data ha to ham kisi spacific number ko acount karna chahata ha to ham variable ka name lakha ga or dot laga kar bracket ma quotes laga kar koi be letter ko account kar sakata ha.
+- Agar ham na ak variable ko na daya ha ka I love samosa, pakora,rata, biryani and karahi' Agar ham ic nam ko split karna chayta ha to simply variable ka nam ka sath .dot laga kar split brackts ma quotes, comma ya jis ma be split karna chahata ha.
+
+# Lacture no 8 (Day 3b)
+## Basic data structure in Python
+1-Tuple
+
+2-List
+
+3-Dictionaries
+
+4-Sat
+
+### 1-Tuple
+Tuple ak asi data structure jic ma ham ak he variable ma bohat se value ko store karna ka leya value ko round bracket () ma likha gata ha or har data item ko comma (,) ke madad sa ak dosara sa saparate keya gata ha ica tuple kahtaa ha.
+
+ 
+Tuple ke value immuteable hoti ha yani ic ke value ko ham delete or edit nahi kar sakta 
+- Tuple ka use uc jaga par hota ha jaha par han na data ka asa set banana ho go program ka doran galti sa ya gan boog kar change na ho saka.
+- Haam do ya do sa zayada tuple ko ap ma multiply, addition or substrection bbe kar sakta ha.See below in picture.
+
+![alt text](image-32.png)  
+![alt text](image-33.png)
+
+In picture ma ham na tuple ko precticaly perform keya ha ka ya kasa banaya gata ha.
+
+### List
+List ak asi data structure ha jic ka istanal ak he variable ma different data items ko ak sath store kar sakta ha.
+
+**List ak asi collection ha jic ma data square bracket ma likha gata ha or her item ko ak dosaray sa saparate karna ka leya ,comma ka use kaya gata ha.**
