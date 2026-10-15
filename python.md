@@ -365,3 +365,7 @@ In picture ma ham na tuple ko precticaly perform keya ha ka ya kasa banaya gata 
 List ak asi data structure ha jic ka istanal ak he variable ma different data items ko ak sath store kar sakta ha.
 
 **List ak asi collection ha jic ma data square bracket ma likha gata ha or her item ko ak dosaray sa saparate karna ka leya ,comma ka use kaya gata ha.**
+
+
+
+ls
