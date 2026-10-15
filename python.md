@@ -366,6 +366,6 @@ List ak asi data structure ha jic ka istanal ak he variable ma different data it
 
 **List ak asi collection ha jic ma data square bracket ma likha gata ha or her item ko ak dosaray sa saparate karna ka leya ,comma ka use kaya gata ha.**
 
+List ma item ka order hamasha mahfooz rahta ha yani gic trteeb sa ham data ko enter kara ga vo us terteeb sa he store ho gaya. 
 
-
-hyyyyyyyyy
+List ke value muteable hoto ha yani ham program ka dran kisi be value ko change or update kar sakta ha.
